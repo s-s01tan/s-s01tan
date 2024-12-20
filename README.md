@@ -42,8 +42,8 @@ I'm a passionate and results-driven <b>Software Engineer</b> with over <b>2.5 ye
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Connect!](https://www.linkedin.com/in/s-s01tan/)
-- YouTube: [Subscribe!](https://www.youtube.com/channel/UCOYnJJGYDDC2q7eFZitazHA)
+- LinkedIn: [Connect!](https://www.linkedin.com/in/soltansoltanli/)
+- YouTube: [Subscribe!](https://www.youtube.com/@soltantalks/)
 - Instagram: [Follow!](https://www.instagram.com/s01tan/)
 
 Feel free to reach out if you want to collaborate, discuss tech, or just say hi! 😊
