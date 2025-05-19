@@ -6,10 +6,10 @@ I'm a passionate and results-driven <b>Software Engineer</b> with over <b>2.5 ye
 
 - [User Orient](https://userorient.com/): Soon available on IOS & Android 🔥
 - [Pacco](https://pacco.az/): Gift Shop E-Commerce
+- [Amexline Auction](https://amexlineauction.com/): Online Car Auction Platform
 - [Staffy](https://staffy.az/): Job Posts, Last Vacancies
 - [SAT Group](https://satgroup.az/): Course & Consulting Website
 - [BCP](https://bcp.az/): Company Website
-- [Safipool](https://safi.construction/): Pool E-Commerce
 - [The Lobby](https://thelobbylifestyle.com/): Social Media
 - More projects can be shown at the meeting ...
 
