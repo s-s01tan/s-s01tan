@@ -11,7 +11,7 @@ I'm a passionate and results-driven <b>Software Engineer</b> with over <b>2.5 ye
 - [SAT Group](https://satgroup.az/): Course & Consulting Website
 - [BCP](https://bcp.az/): Company Website
 - [The Lobby](https://thelobbylifestyle.com/): Social Media
-- More projects can be shown at the meeting ...
+- More projects can be shown at [Soltan Soltanli.com](https://soltansoltanli.com/)
 
 ## 🌱 Technologies & Tools
 
