@@ -1,6 +1,6 @@
 # Hey, Welcome! 👋
 
-I'm a passionate and results-driven <b>Software Engineer</b> with over <b>2.5 years</b> of hands-on experience in crafting robust and scalable backend solutions. My expertise lies in developing <b>APIs</b>, both <b>RESTful</b> and <b>GraphQL</b>, and I'm well-versed in implementing both <b>monolith</b> and <b>microservice</b> architectures.
+I'm a passionate and results-driven <b>Software Engineer</b> with over <b>4 years</b> of hands-on experience in crafting robust and scalable backend solutions. My expertise lies in developing <b>APIs</b>, both <b>RESTful</b> and <b>GraphQL</b>, and I'm well-versed in implementing both <b>monolith</b> and <b>microservice</b> architectures.
 
 ## 🔭 Some Projects
 
@@ -11,7 +11,7 @@ I'm a passionate and results-driven <b>Software Engineer</b> with over <b>2.5 ye
 - [SAT Group](https://satgroup.az/): Course & Consulting Website
 - [BCP](https://bcp.az/): Company Website
 - [The Lobby](https://thelobbylifestyle.com/): Social Media
-- More projects can be shown at [Soltan Soltanli.com](https://soltansoltanli.com/)
+- More projects can be shown at [soltansoltanli.com](https://soltansoltanli.com/)
 
 ## 🌱 Technologies & Tools
 
